@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://SEU-USUARIO.github.io/SEU-REPOSITORIO/",
+    baseUrl: "https://github.com/LuisFellipeOliveiras/qa-automation",
     video: false
   }
 });
