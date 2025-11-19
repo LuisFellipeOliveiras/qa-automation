@@ -1,0 +1,12 @@
+{
+  "name": "qa-portfolio-tests",
+  "version": "1.0.0",
+  "description": "Testes automatizados do portf\u00f3lio de Fellipe Oliveira",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
